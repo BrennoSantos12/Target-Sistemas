@@ -10,3 +10,5 @@ for (k; k < indice; k++) {
 }
 
 console.log(soma);
+
+// resposta 66
