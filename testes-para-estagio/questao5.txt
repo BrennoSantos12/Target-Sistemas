@@ -1,0 +1,16 @@
+Primeiro, eu ligaria um dos interruptores e esperaria cerca de 15 minutos. 
+Em seguida, desligaria esse interruptor e ligaria o segundo. Depois, correria até a
+primeira sala das lâmpadas.
+
+Se a lâmpada estiver acesa, o segundo interruptor é o que controla a lâmpada dessa sala. 
+Se estiver apagada, verificaria a temperatura da lâmpada. Se a lâmpada estiver quente, o 
+primeiro interruptor é o que controla a lâmpada dessa sala. Se estiver fria, a lâmpada da 
+primeira sala é controlada pelo terceiro interruptor.
+
+Ainda com pressa, iria até a segunda sala. Se a lâmpada estiver acesa, a segunda sala é 
+controlada pelo segundo interruptor. Se a lâmpada estiver fria, a segunda sala é controlada 
+pelo terceiro interruptor. Se estiver quente, a lâmpada da segunda sala é controlada pelo 
+primeiro interruptor.
+
+A terceira sala não precisaria ser verificada, pois o resultado será automaticamente o 
+restante dos resultados anteriores.
